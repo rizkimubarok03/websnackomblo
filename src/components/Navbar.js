@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import aretanet from "../img/logo-aretanet.png"
+import aretanet from "../img/logo.png"
 
 const NAVLINK_CLASSES =
   "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-yellow-300 md:mx-2 md:my-0"
@@ -65,8 +65,8 @@ const Navbar = ({ className }) => {
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">SMK</span>
-              <span className="text-green-700">Daarussaadah</span>
+              <span className="text-gray-800 font-semibold">SNACK</span>
+              <span className="text-green-700">OMBLO</span>
             </div>
           </Link>
 

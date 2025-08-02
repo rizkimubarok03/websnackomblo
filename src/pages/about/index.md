@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
-subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
+heading: Snack Omblo Kota Tangerang
+subheading: Testimoni, Review
 team:
   - name: Prestasi Siswa
     image: /img/img_2393.jpg
@@ -11,27 +11,30 @@ team:
     title: SMK Daarussaadah Kota Tangerang
     image: /img/img_4974.jpg
 ---
-### **SMK Daarussaadah Berpesantren**
+### **SNACK OMBLO**
 
-i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
+Selamat datang di Snack Omblo, tempat camilan lezat dengan harga terjangkau! Kami menawarkan berbagai pilihan snack gurih dan manis yang cocok untuk menemani waktu santai Anda..
 
-## **Visi**
+## **Testimoni**
 
-Isi dengan visi dari SMK Daarussaadah
+Testimoni 1.Rasa boleh dicoba, ternyata beneran enak semua! Ini pertama kali coba basreng level pedas-om, dan fix bakal repeat order! — Ayu,Tangerang.
 
-## **Misi**
+## **Review**
 
-1. i﻿si dengan misi-misi
+Rasa otentik: enggak berlebihan bumbu, tapi tetap kaya rasa.
 
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
+![Tasakuran SMK Daarussaadah](/img/logo.jpg "Kegiatan Tasakuran SMK Daarussaadah")
 
-### Jurusun Teknik Komputer Jaringan (TKJ)
+### Snack Omblo Kota Tangerang
 
-Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
+Selamat datang di Snack Omblo, tempat camilan lezat dengan harga terjangkau! Kami menawarkan berbagai pilihan snack gurih dan manis yang cocok untuk menemani waktu santai Anda.
 
-Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
+### Tentang Kami
 
-Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti:
+Selamat datang di Snack Omblo, tempatnya camilan seru yang bikin hari makin asyik! Kami menghadirkan beragam snack dengan rasa autentik yang cocok untuk anak muda dan dewasa. Dari yang gurih, pedas, manis, hingga kriuk-kriuk nagih, semua ada di sini!.
 
-1. Perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. 
-2. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
+### Contact Kami
+
+Instagram: @snack_omblo
+Gmai      : snackomblo.com
+Whatsapp  : 08812-8792-3310

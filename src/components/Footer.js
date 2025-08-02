@@ -20,14 +20,14 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">SNACK</span>
+                  <span className="text-green-700">OMBLO</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+                Selamat datang di Snack Omblo, tempat camilan lezat dengan harga terjangkau! Kami menawarkan
+                berbagai pilihan snack gurih dan manis yang cocok untuk menemani waktu santai Anda.
               </p>
             </div>
           </div>
@@ -42,19 +42,19 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  Snack Omblo
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Komunitas
+                  Testimoni
                 </Link>
                 <Link
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  Karir
+                  Review
                 </Link>
               </div>
 
@@ -92,7 +92,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  PT. Aretanet Indonesia
+                  D'Ela Cake
                 </a>
                 <a
                   href="https://www.aretacollege.com/"
@@ -100,7 +100,7 @@ const Footer = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Areta Informatics College
+                  Ni_snack
                 </a>
                 <a
                   href="https://facebook.com/smk-daarussaadah"
@@ -117,10 +117,10 @@ const Footer = () => {
                   Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +62 85300000
+                  +6289652512837
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                  @snackomblo.com
                 </span>
               </div>
             </div>
@@ -131,7 +131,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © snackomblo 2021- All rights reserved
           </p>
         </div>
       </div>

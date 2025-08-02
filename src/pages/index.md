@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
-image: /img/tasakuran.jpg
-heading: SMK Daarussa'adah Tangerang
-subheading: Berkarakter, Berprestasi dan Berpesantren
+title: Official Website snackomblo
+image: /img/snack4.jpg
+heading: SNACKOMBLO Kota Tangerang
+subheading: Harga Kaki Lima Rasa Boleh Dicoba
 about:
-  heading: Siapa Kami
-  description: Kami adalah lembaga pendidikan vokasi SMK Daarussa'adah yang
-    berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
-    bersaing di dunia industri dan bisnis.
+  heading: Tentang Kami
+  description: Selamat datang di Snack Omblo, tempatnya camilan seru yang bikin hari makin asyik! Kami menghadirkan beragam snack dengan rasa autentik yang cocok untuk anak muda dan dewasa. Dari yang gurih, pedas, manis, hingga kriuk-kriuk nagih, semua ada di sini!.
   image:
-    image: /img/penyerahan-piagam.jpg
+    image: /img/snack4.jpg
     alt: Para siswa SMK Daarussa'adah kegiatan kelas industri
   button:
     url: /about
